@@ -1,7 +1,5 @@
 package com.example.calculator2.Lv4
 
-import TestFolder.Calculator
-
 fun main() {
     println("첫번째 수를 입력하세요")
     val num1 = readLine()!!.toDouble()
