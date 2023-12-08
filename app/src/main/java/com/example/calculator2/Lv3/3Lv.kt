@@ -5,7 +5,6 @@ fun main() {
     val num1 = readLine()!!.toDouble()
     println("원하시는 사칙연산 기호를 입력하세요")
     var oper = readLine()!!.toString()
-    //조건문 넣어보기
     println("두번째 수를 입력하세요")
     val num2 = readLine()!!.toDouble()
     val calc = Calculator()

@@ -64,9 +64,5 @@ fun main() {
 //        }
 //
 //    }
-//    class AddOperation
-//    class SubstractOperation
-//    class MultiplyOperation
-//    class DivideOperation
 
 }
